@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	color: green;
+}
+h2 {
+	text-align: left;
+	color: purple;
+}
+h3 {
+	text-align: left;
+	color: #FF3300;
+}
+ul {
+	list-style-type: none; /* this removes the bullets that show up by default in unordered lists */
+}
+
+.TOC {
+	font-size: 20px;
+	line-height: 30px;
+ }
+
+body {
+	background-color: white;
+	font-family: Verdana;
+	font-size: medium;
+}    
+
+div.img { 
+ border: 1px solid #0000ff;
+ width: 420px;
+ margin: 5px;
+ padding: 5px;
+ }
